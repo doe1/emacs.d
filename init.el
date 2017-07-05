@@ -60,6 +60,9 @@
 (setq hl-line-face 'hlline-face)
 (global-hl-line-mode)
 
+;;themeの設定
+(load-theme 'manoj-dark t)
+
 ;;追加機能
 
 ;;auto-installの設定
